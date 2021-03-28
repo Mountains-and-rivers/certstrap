@@ -5,6 +5,11 @@
 A simple certificate manager written in Go, to bootstrap your own certificate authority and public key infrastructure.  Adapted from etcd-ca.
 
 certstrap is a very convenient app if you don't feel like dealing with openssl, its myriad of options or config files.
+## Go Version
+
+```
+go version go1.15.2 windows/amd64
+```
 
 ## Common Uses
 
